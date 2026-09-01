@@ -1,1 +1,0 @@
-Create feature branch ibrahim-redesign from this commit.
